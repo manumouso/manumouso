@@ -12,7 +12,7 @@ I'm currently learning introduction to game development using LOVE2D framework i
 Have fun watching my projects!
 
 
-- 📫 How to reach me: manumouso91@gmail.com
+📫 How to reach me: manumouso91@gmail.com
 
 <!---
 manumouso/manumouso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

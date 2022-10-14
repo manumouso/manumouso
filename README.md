@@ -5,7 +5,6 @@ Hello, how are you? :D
 My name is Manuel Mouso, I am 29 years old, now a student of Computer Systems at Universidad Tecnologica Nacional of Buenos Aires.
 I have solid knowledge of structured programming, object-oriented programming, and full stack web development. Some of the programming languages that I have mastered are C, C++, Java, PHP, Python, and SQL. Other languages that I know are C#, JavaScript, HTML and CSS.
 
-I'm currently learning introduction to game development using LOVE2D framework in the Lua programming language, and also doing my first steps in a computer security course. 
 
 Have fun watching my projects!
 

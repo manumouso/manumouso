@@ -20,9 +20,7 @@ Have fun watching my projects!
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bash/bash-plain.svg" alt="Bash Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/c/c-original.svg" alt="C Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/chrome/chrome-original.svg" alt="Chrome Logo" width="50" height="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/chrome/chrome-original.svg" alt="Chrome Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/csharp/csharp-original.svg" alt="C# Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-original.svg" alt="Django Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"/>

@@ -2,8 +2,8 @@ Are you looking for innovative IT solutions, a person capable of working on a te
 
 Hello, how are you? :D
 
-My name is Manuel Mouso, I am 29 years old, now a student of Computer Systems at Universidad Tecnologica Nacional of Buenos Aires.
-I have solid knowledge of structured programming, object-oriented programming, and full stack web development. Some of the programming languages that I have mastered are C, C++, Java, PHP, Python, and SQL. Other languages that I know are C#, JavaScript, HTML and CSS.
+My name is Manuel Mouso, now a student of Computer Systems at Universidad Tecnologica Nacional of Buenos Aires.
+I have solid knowledge of structured programming, object-oriented programming, and full stack web development. Some of the programming languages that I have mastered are C, C++, Java, PHP, Python, JavaScript and SQL.
 
 
 Have fun watching my projects!
